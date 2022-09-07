@@ -5,6 +5,20 @@
 - I refactored the code for Horiseon to clean up the HTML and CSS, making the website more accessable for all users.
 - I replaced semantic tags and fixed CSS selectors and kept the layout and view of the site the same as it was previously. 
 
+## Acceptance Criteria
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
 ## Installation
 
 - Right click the web page, then click inspect to see the changes
@@ -24,12 +38,3 @@
 
 MIT License
 
-## Features
-
-If your project has a lot of features, list them here.
-
-
-## Tests
-
-- Click the navigation links to see if they work
-- Check the page so it is identical to how it was previously.
