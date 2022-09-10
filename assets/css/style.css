@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* changed the CSS selectors to line up with the HTML */
 body {
     background-color: #d9dcd6;
 }
-
+/* removed the . from the header selectors*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* removed the . from the article and section selectors */
 article {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ section img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* grouped the elements to make the code neater and eliminated the unnessicary repeated elements */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +119,7 @@ section img {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* removed the . from the footer selectors */
 footer {
     padding: 30px;
     clear: both;

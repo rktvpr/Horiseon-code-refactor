@@ -4,6 +4,8 @@
 
 - I refactored the code for Horiseon to clean up the HTML and CSS, making the website more accessable for all users.
 - I replaced semantic tags and fixed CSS selectors and kept the layout and view of the site the same as it was previously. 
+- I fixed the "Search-engine-optimization" button so that it is functioning
+- I added notes in HTML and CSS files to show what changees I have made to the code. 
 
 ## Acceptance Criteria
 
@@ -23,11 +25,11 @@ THEN I find a concise, descriptive title
 
 - Right click the web page, then click inspect to see the changes
 - Or view in github repository
-
+- Deployment link: https://rktvpr.github.io/RKT-code-refactor/
 ## Usage
 
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Screenshot.png)
 
 ## Credits
 - Rick Welte
